@@ -149,7 +149,7 @@ Surakshak-Hackorbit/
 * Stored securely in MongoDB.
 * Triggers transition to behavior training.
 
-###3. Set panic gesture
+### 3. Set panic gesture
 * User has been given with 2 options for stopage of app and transactions in case of panic or emergency like situations.
 
 ### 3. Behavioral Training Session (New)
