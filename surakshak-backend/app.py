@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app, supports_credentials=True)
 
 # ---------- MongoDB Setup ----------
-client = MongoClient("mongodb+srv://ananya2004d:1anan.ya9@surakshak.aait0ep.mongodb.net/?retryWrites=true&w=majority&appName=Surakshak")
+client = MongoClient("mongodb+srv://admin:admin%40surakshak@surakshak.kyj7azt.mongodb.net/surakshak?retryWrites=true&w=majority")
 db = client['surakshak_db']
 training_collection = db['training_sessions']
 risk_collection = db['risk_scores']
